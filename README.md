@@ -1,5 +1,7 @@
 # DevOps Capstone Template
 
+![Build Status](https://github.com/charimene/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
@@ -20,6 +22,7 @@ Once you are in the lab environment, you can initialize it with `bin/setup.sh` b
 ```bash
 source bin/setup.sh
 ```
+by : bash ./bin/setup.sh
 
 This will install Python 3.9, make it the default, modify the bash prompt, create a Python virtual environment and activate it.
 
